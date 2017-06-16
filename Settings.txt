@@ -1,0 +1,61 @@
+#ARCADE
+distance = 12 ///this is a comment
+isalive = true
+#
+#NORMAL
+fsdv = 19
+rdv = 6
+#
+#TEXTURES_BUTTONS
+CLICKED=Assets//Buttons//clicked.png
+NORMAL=Assets//Buttons//normal.png
+MOUSE_ON=Assets//Buttons//pointer.png
+#
+#MAIN_MENU_TEXTURES
+ANIMATED_LINE= Assets//Backgrounds//line_animated.png
+#
+#BACKGROUNDS
+GUI_BACK = Assets//Backgrounds//BackGroundMenu_2.png
+GAMEOVER = Assets//Backgrounds//Game_over.jpg
+BACKGROUND = Assets//Backgrounds//Back_2.jpg
+ARCADE_BACKGROUND = Assets//Backgrounds//arcade_back.jpg
+INSTRUCTIONS = Assets//Backgrounds//Instructions.jpg
+#
+#TRANSPARENT_TILES
+TRANSPAR = Assets//Backgrounds//diagmonds.png
+TRANSPAR_2 = Assets//Backgrounds//cardboardflat.png
+#
+#LABEL
+FONT= Assets//Fonts//urban.ttf
+#
+#LIFEBAR_TEXTURES
+bar = Assets//GUI//Bar.png
+time = Assets//GUI//Inside_bar.png
+#
+#PLAYER_SPRITE
+sprt = Assets//Sprites//Hero.png
+initial_pos.x = 25
+#
+#BULLET_SPRITE
+sprt = Assets//Bullets//expl_bullett.png
+W = 50
+H = 50
+#
+#BALLS
+b1 = Assets//Balls//balls1.png
+b2 = Assets//Balls//balls2.png
+b3 = Assets//Balls//balls3.png
+b4 = Assets//Balls//balls4.png
+#
+#ARCADE_HG
+list = HIGHSCORE_ARCADE.list
+#
+#NORMAL_HG
+list = HIGHSCORE.list
+#
+#LIFES
+lifes_texture = Assets//GUI//hearth.png
+#
+#INSTRUCT
+
+#
